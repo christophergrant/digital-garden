@@ -25,4 +25,4 @@ Please feel free to reach out! About anything! Online contacts are just as impor
 
 backfill(a&t)protonmail.com
 
-https://www.linkedin.com/in/nonsense/
+https://www.linkedin.com/in/nonsense/ - please feel free to send a connection request if I actually know you.
