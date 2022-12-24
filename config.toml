@@ -1,6 +1,6 @@
 baseURL = "https://christophergrant.github.io/digital-garden"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-TZXHQNSRBZ"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
