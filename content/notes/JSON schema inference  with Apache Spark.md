@@ -108,7 +108,7 @@ If you take a look at the [documentation for DataFrameReader.json()](https://spa
 [('age', 'bigint'), ('name', 'string')]
 ```
 
-#### explanation
+### explanation
 
 At line 1, we create an RDD from a text file located at `python/test_support/sql/people.json` using a SparkContext `sc`. The RDD is composed of a single column of type string, one row per line of input.
 
@@ -116,7 +116,7 @@ Line 2 is the motivating part of this post. We create a DataFrame from the RDD b
 
 Line 4 is the proof that we've inferred the schema, as line 4 is line 3's output and shows multiple columns and differing types (bigint for age), which is desirable when bringing structure to unstructured data.
 
-#### application
+### application
 
 This seems promising. But the example doesn't give us what we really want - it's still loading from a file. Let's adapt it:
 
@@ -135,7 +135,7 @@ Resuts in
 
 There we go. We took two separate lines of JSON, each with different schemas, and created a super schema that accurately describes them both. Although it's a little hacky, alternative 2 is categorically better than alternative 1. It's more robust as it can handle more than one row.
 
-#### crossing and dotting
+### crossing and dotting
 
 You can do this with existing DataFrame data
 
