@@ -20,7 +20,7 @@ Traditionally, a large part of developing this structure was to define it manual
 
 Inferring the schema of a lot of semi-structured data is one of Apache Spark's (under-appreciated) strengths. But almost all of the examples that showcase this powerful feature focus on file-based sources. What if I want to derive the schema of an in-memory semi-structured payload? What about embedded fields in otherwise structured data? What about ingesting Snowflake VARIANT types? **It turns out, you can do this with a barely-documented feature**. 
 
-The intention of this post is to show how to infer the schema over a lot of JSON payloads. I'm sure that the same methods will work for other semi-structured formats like CSV/TSV/DSV, but these will not be shown in this post. The limiting factor is if the DataFrameReader supports inference across files for that format - [JSON](https://github.com/apache/spark/blob/master/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/json/JsonInferSchema.scala), [CSV](https://github.com/apache/spark/blob/master/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/csv/CSVInferSchema.scala) (linked only for reference).
+The intention of this post is to show how to infer the schema over a lot of JSON payloads. I'm sure that the same methods will work for other semi-structured formats like CSV/TSV/DSV, but these will not be shown in this post. The limiting factor is if the DataFrameReader supports inference across files for that format - [JSON](https://github.com/apache/spark/blob/master/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/json/JsonInferSchema.scala), [CSV](https://github.com/apache/spark/blob/master/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/csv/CSVInferSchema.scala) do already(linked only for reference), and I'm sure contributions for any other formats are accepted.
 
 The structure of this post will be to show one way to apply structure to ingested JSON payloads by using `from_json`. Part of that will be showcasing that, even as of Spark 3.3.0, you need to supply a schema to `from_json`. Then, a couple of methods will be shown for deriving that schema from raw data, which frees you from creating it manually.
 
@@ -74,7 +74,7 @@ df = df.withColumn("payload", F.from_json("payload", schema))
 
 Now we're getting somewhere.
 
-But we're missing one crucial thing, I've [drawn the rest of the owl](https://i.kym-cdn.com/photos/images/original/000/572/078/d6d.jpg). I snuck in `schema`. `from_json`, right now, requires a user-provided schema. 
+But we're missing one crucial thing: I've [drawn the rest of the owl](https://i.kym-cdn.com/photos/images/original/000/572/078/d6d.jpg). I snuck in `schema`. `from_json`, right now, requires a user-provided schema. 
 
 The rest of this post will show two different ways to have Spark do this for you, and spoiler, one is better than the other. 
 
@@ -89,7 +89,6 @@ schema = spark.range(1).select(F.schema_of_json(json_payload).alias("schema")).c
 ```
 
 Results in:
-
 ```python
 >>> schema                                                                      
 'STRUCT<`age`: BIGINT, `name`: STRING>'
@@ -133,7 +132,7 @@ Resuts in
 'struct<age:bigint,name:string>'
 ```
 
-There we go. We took two separate lines of JSON, each with different schemas, and created a super schema that accurately describes them both. Although it's a little hacky, alternative 2 is categorically better than alternative 1. It's more robust as it can handle more than one row.
+There we go, same schema as before, and it's the expected one - note that the other schema was uppercased and spaced differently - this doesn't matter. We took two separate lines of JSON, each with different schemas, and created a super schema that accurately describes them both. Although it's a little hacky, alternative 2 is categorically better than alternative 1. It's more robust as it can handle more than one row.
 
 ### crossing and dotting
 
@@ -147,7 +146,7 @@ schema = spark.read.json(payload_rdd).schema
 df = df.withColumn("payload", F.from_json("payload", schema))
 ```
 
-A common application for this would be for exporting data from Snowflake. Snowflake offers a [VARIANT type](https://docs.snowflake.com/en/sql-reference/data-types-semistructured.html#variant) that is encoded as a JSON string upon export. Or maybe you have Parquet files with JSON columns.
+A common application for this would be for exporting data from Snowflake. Snowflake offers a [VARIANT type](https://docs.snowflake.com/en/sql-reference/data-types-semistructured.html#variant) that is encoded as a JSON string upon export. Or maybe you have Parquet files with JSON string columns.
 
 ## difficulties with semi-structured data
 
