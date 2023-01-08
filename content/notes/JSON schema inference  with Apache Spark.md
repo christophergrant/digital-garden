@@ -1,4 +1,3 @@
-
 ---
 title: "JSON schema inference  with Apache Spark"
 tags:
@@ -6,11 +5,18 @@ tags:
 - PySpark
 ---
 
+## announcement
+
+please check out [a library](https://christophergrant.github.io/delta-hydro/api/spark.html#hydro.spark.infer_json_field) I've authored that does this for you. 
+
 ## title breakdown
 
 - JSON: [JavaScript Object Notation](https://www.json.org/json-en.html), a popular [semi-structured data](https://en.wikipedia.org/wiki/Semi-structured_data) interchange format 
 - schema inference: the process of using a computer to derive the emergent structure of semi-structured
 - [Apache Spark](https://spark.apache.org/): a popular [[Open Source]] query execution engine
+
+### a quick note
+**This post is not about inferring the schema of JSON files**, as that issue is already solved with [native DataFrameReader](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrameReader.json.html) functionality. 
 
 ## introduction
 
