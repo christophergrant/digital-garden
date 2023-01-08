@@ -36,7 +36,7 @@ Traditionally, many have questioned whether or not you need to be a Scala guru t
 
 RDDs are the foundational and low-level Spark abstraction. DataFrames/SQL are higher level and carry a lot of benefits on top of RDDs. 
 
-For these reasons among others, new Spark applications should use the newer DataFrame/SQL APIs and legacy applications should be rewritten to use the newer APIs.
+For these reasons among others, new Spark applications should use the newer DataFrame/SQL APIs and legacy applications should be rewritten.
 
 This carries over to other Spark APIs, on the left are the older, lower-level APIs, where the right has the newer APIs:
 - Spark core (RDDs) => Spark SQL and DataFrames
@@ -56,7 +56,7 @@ Table formats like Linux Foundation [Delta Lake](https://docs.delta.io/latest/in
 
 **Note: these listings include third-party libraries with varying SDLC standards, use these at your own risk**
 
-**This list is not exhaustive. Please feel free to open a PR against this page. to add/remove connectors**
+**This list is not exhaustive. Please feel free to open a PR against this page to add/remove connectors**
 
 | Connector      | Reference |
 | ----------- | ----------- |

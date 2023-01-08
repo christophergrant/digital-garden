@@ -5,7 +5,7 @@ tags:
 - PySpark
 ---
 
-## announcement
+## post-publishing announcement
 
 please check out [a library](https://christophergrant.github.io/delta-hydro/api/spark.html#hydro.spark.infer_json_field) I've authored that does this for you. 
 

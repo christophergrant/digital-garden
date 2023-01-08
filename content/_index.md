@@ -1,9 +1,7 @@
 ---
-title: New Beginnings.
+title: The Grant Garden 🌼
 enableToc: false
 ---
-
-Create more. Consume less. 
 
 ## About this blog
 
@@ -13,11 +11,11 @@ This blog will focus on a few topics, including professional and technical topic
 ## About Christopher Grant
 
 For work, I am currently employed in the technical pre and post-sales function at Databricks. The title on my theoretical business card is `Senior Specialist Solutions Architect`, which is a mouthful, nonsense title that no-one understands, so I'll give a brief summary of what I do: 
-- On good days, I'm [[tuning queries]], helping architect production-ready data pipelines, or contributing to [[open source]] software.
+- On good days, I'm [[tuning queries]], helping architect production-ready data pipelines, or contributing to [[Open Source]] software.
 - On bad days, I'm relegated to being a human search engine who dredges up links to publicly available documentation. 
 - That being said, the job is fulfilling most of the time and I mostly recommend working at Databricks.
 
-Work admittedly takes up a good amount of my time and energy, but outside of it I enjoy music, movies, philosophy, and (mostly competitive) video games.
+Work admittedly takes up a good amount of my time and energy, but outside of it I enjoy [music](https://www.youtube.com/watch?v=qdmbbiMRe48), [movies](https://www.imdb.com/title/tt0096256/), and social theory.
 
 I currently live in the San Francisco Bay Area.
 
