@@ -37,3 +37,11 @@ The problems are:
 * Let's say you do manage to break through the concrete with your impressive willpower. 
 	* Would it be worth it? What if your expectations of the inner-door experience let you down? This question applies even if the concrete isn't there - but in this instance it is. Does working through the concrete devalue the inner-door experience?
 	* Would you feel dirty for having gone through the entire process? What if you know that others have passed through that same door, but experienced no concrete resistance. 
+
+### Closing
+
+A lot of people are scared to open doors because they are afraid that they will be met with concrete.
+
+I'm of the opinion that yes, we can probably minimize the concrete that we face in our lives by changing our behavior, but that people are complicated, and a lot of concrete will be there regardless of what you do. Deservedly or not.
+
+I'll try and continue opening these doors - because although there is a lot of concrete out there, there are a lot of inner-door experiences that make life worth living. To find the ecstatic experiences, you have to face a lot of concrete.
