@@ -5,6 +5,8 @@ tags:
 - Relationships
 ---
 
+## Intro
+
 Imagine a doorframe. The doorframe stands on its own, surrounded by nothing. You find it to be beautiful and inviting. You're not really sure what lies behind it, but you want to pass through and experience what's on the other side.
 
 But once you open that door, you are greeted with a solid wall of cold, hard concrete. 
@@ -38,7 +40,7 @@ The problems are:
 	* Would it be worth it? What if your expectations of the inner-door experience let you down? This question applies even if the concrete isn't there - but in this instance it is. Does working through the concrete devalue the inner-door experience?
 	* Would you feel dirty for having gone through the entire process? What if you know that others have passed through that same door, but experienced no concrete resistance. 
 
-### Closing
+## Closing
 
 A lot of people are scared to open doors because they are afraid that they will be met with concrete.
 
