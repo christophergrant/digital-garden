@@ -37,5 +37,3 @@ The problems are:
 * Let's say you do manage to break through the concrete with your impressive willpower. 
 	* Would it be worth it? What if your expectations of the inner-door experience let you down? This question applies even if the concrete isn't there - but in this instance it is. Does working through the concrete devalue the inner-door experience?
 	* Would you feel dirty for having gone through the entire process? What if you know that others have passed through that same door, but experienced no concrete resistance. 
-
-`< !-- Hello, clever reader. I'll spoil it here. The door represents opportunities: they could be jobs, relationships, or any relation, really. The concrete represents a barrier that we as subjects are (probably mostly) powerless to address. Thanks, Madison. --/>`
