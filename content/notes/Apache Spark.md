@@ -23,14 +23,14 @@ spark.sql("""CREATE TABLE table AS
 		  SELECT * FROM other_table""")
 ```
 
-So you get that base level functionality and familiarity of SQL and the imperative flexibilty of Python.
+So you get that base level functionality and familiarity of SQL and the added imperative flexibilty of Python.
 
 I personally skew towards the DataFrame API for data engineering tasks because of the traumatic experiences I have had with massive piles with SQL and YAML. But the point is, you can execute a beautiful hybrid model that is easily taught to those familiar with SQL.
 
 Traditionally, many have questioned whether or not you need to be a Scala guru to use Spark. A spicy take here: there are essentially no reasons to use the Scala dialect nowadays, due to factors like
-	- The performance differences between Scala Spark and other Spark dialects has been minimal for a long time. 
-	- Python is much more accessible to end users than Scala is.
-	- Scala's strongly-typed DataSet API never really took off.
+- The performance differences between Scala Spark and other Spark dialects has been minimal for a long time. 
+- Python is much more accessible to end users than Scala is.
+- Scala's strongly-typed DataSet API never really took off.
 
 ### Do not start with RDDs, use DataFrames/SQL instead
 
@@ -51,6 +51,9 @@ Table formats like Linux Foundation [Delta Lake](https://docs.delta.io/latest/in
 - ACID properties
 - Richer schema enforcement capabilities
 - and much more
+
+### Use hydro
+
 
 ## Spark Data Sources
 

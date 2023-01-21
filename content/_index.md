@@ -7,6 +7,8 @@ enableToc: false
 
 This blog will focus on a few topics, including professional and technical topics like Apache Spark and Linux Foundation Delta Lake, as well as non-professional topics that I am interested in, including art, social theory, and local-first software.
 
+This blog is living and breathing, and I reserve the right to edit/take down content as I see fit. Don't be surprised if a previous post has been completely and seemingly randomly retooled.
+
 
 ## About Christopher Grant
 
@@ -24,3 +26,8 @@ Please feel free to reach out! About anything! Online contacts are just as impor
 backfill(a&t)protonmail.com
 
 https://www.linkedin.com/in/nonsense/ - please feel free to send a connection request if I actually know you.
+
+
+## Stack
+
+I use [Obsidian](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ5uCcwtn8AhUCNn0KHaJqDlgQFnoECA0QAQ&url=https%3A%2F%2Fobsidian.md%2F&usg=AOvVaw1ILZ6Ax3NYhgLRKojFB5pV) to edit my notes, [Quartz](https://github.com/jackyzha0/quartz) for the website-ized [second brain](https://en.wikipedia.org/wiki/Second_brain), and Github [Repos](https://docs.github.com/en/get-started/quickstart/create-a-repo)/[Pages](https://pages.github.com/)/[Actions](https://github.com/features/actions) for deployment and organization. 
