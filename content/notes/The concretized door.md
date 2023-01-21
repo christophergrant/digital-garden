@@ -1,3 +1,10 @@
+---
+title: "The concretized door"
+tags:
+- Personal
+- Relationships
+---
+
 Imagine a doorframe. The doorframe stands on its own, surrounded by nothing. You find it to be beautiful and inviting. You're not really sure what lies behind it, but you want to pass through and experience what's on the other side.
 
 But once you open that door, you are greeted with a solid wall of cold, hard concrete. 
