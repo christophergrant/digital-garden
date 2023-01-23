@@ -12,19 +12,19 @@ This blog is living and breathing, and I reserve the right to edit/take down con
 
 ## About Christopher Grant
 
-For work, I am currently employed in the technical pre and post-sales function at Databricks. The title on my theoretical business card is `Senior Specialist Solutions Architect`, which is sometimes confusing so here's what I actually do:
-- Tuning customer queries - including non-trivial solutions like pre-aggregations before an inequality join and standard lakehouse stuff like compaction, data skipping via (dynamic) file/partition pruning.
+For work, I am currently employed in the technical pre and post-sales function at Databricks. The title on my theoretical business card is `Senior Specialist Solutions Architect`, which is confusing, so here's what I actually do:
+- Tuning customer queries - including non-trivial solutions like pre-aggregations before inequality joins and standard lakehouse stuff like compaction, data skipping via (dynamic) file/partition pruning, and custom Spark-based configurations for optimal efficiency.
 - Helping architect production-ready data pipelines, up to multi-Petabyte scale.
 - Teaching customers and internal resources about Delta Lake, Apache Spark, the Databricks platform, and more general Lakehouse architecture / basic distributed computing concepts.
 - Contributing to Open Source software.
 - Customer/Product advocacy.
 - Mentoring/guiding internally on customer relationships, solving technical problems, and business presentations.
 
-That being said, the job is fulfilling most of the time and I mostly recommend working at Databricks.
+That being said, the job is fulfilling most of the time and I mostly recommend working at Databricks. If this sounds interesting to you and you'd like to explore similar roles at Databricks, please feel free to reach out to me via official channels (see LinkedIn below).
 
 Work admittedly takes up a good amount of my time and energy, but outside of it I enjoy [music](https://www.youtube.com/watch?v=qdmbbiMRe48), [movies](https://www.imdb.com/title/tt0096256/), and social theory.
 
-I currently live in the San Francisco Bay Area. It's pretty great up here despite the issues you might hear about.
+I currently live in the San Francisco Bay Area. In my opinion, it's great up here  - despite the issues you might hear about.
 
 Please feel free to reach out! About anything! Online contacts are just as important as those offline.
 
@@ -35,8 +35,8 @@ I use [Obsidian](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&
 
 ## Contact
 
-backfill( a   t  symbol)protonmail.com
+Personal è̯̜̬̥̤m̷͖̯̝̦̪̞̦aì̭͍͇̤l̤̩̗̱͍͕̭: backfill( a   t  symbol)protonmail.com
 
-https://www.linkedin.com/in/nonsense/ - please feel free to send a connection request if I actually know you.
+https://www.linkedin.com/in/nonsense/ - please feel free to send a connection request if I actually know you
 
 https://twitter.com/bigt0ph - admittedly I'm more of a lurker on Twitter but here goes
