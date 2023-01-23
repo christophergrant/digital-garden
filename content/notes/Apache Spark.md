@@ -47,12 +47,14 @@ This carries over to other Spark APIs, on the left are the older, lower-level AP
 ### Use a modern table format
 
 Table formats like Linux Foundation [Delta Lake](https://docs.delta.io/latest/index.html_) and [Apache Iceberg](https://iceberg.apache.org) have changed the data lake game. You get all of the benefits of columnar/binary file formats like Parquet, ORC, Avro, but with the added benefits of:
-- Convinient user APIs for Upserts/Deletes
-- ACID properties
+- Convenient user APIs for Upserts/Deletes
+- [ACID](https://www.databricks.com/glossary/acid-transactions) properties
 - Richer schema enforcement capabilities
 - and much more
 
 ### Use hydro
+
+A lot of mid-level/advanced tasks like Slowly Changing Dimensions can be more easily executed using frameworks like [hydro](https://github.com/christophergrant/hydro).
 
 
 ## Spark Data Sources

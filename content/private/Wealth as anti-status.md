@@ -8,5 +8,5 @@ I live in the wealthiest city, in the wealthiest state, in the wealthiest countr
 - Bullshit jobs
 - Rent-seeking
 - Capitalism and exploitation
-- Superficial signaling through outward appearance
+- Signaling and the race to the bottom
 - 

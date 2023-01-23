@@ -13,12 +13,12 @@ This blog is living and breathing, and I reserve the right to edit/take down con
 ## About Christopher Grant
 
 For work, I am currently employed in the technical pre and post-sales function at Databricks. The title on my theoretical business card is `Senior Specialist Solutions Architect`, which is confusing, so here's what I actually do:
-- Tuning customer queries - including non-trivial solutions like pre-aggregations before inequality joins and standard lakehouse stuff like compaction, data skipping via (dynamic) file/partition pruning, and custom Spark-based configurations for optimal efficiency.
-- Helping architect production-ready data pipelines, up to multi-Petabyte scale.
+- Tuning customer queries - including non-trivial solutions like pre-aggregations before inequality joins and standard lakehouse stuff like compaction, data skipping via (dynamic) file/partition pruning, and custom Spark-based configurations for optimal efficiency and cost savings.
+- Architecting production-ready, advanced data pipelines, up to multi-Petabyte per-table scale.
 - Teaching customers and internal resources about Delta Lake, Apache Spark, the Databricks platform, and more general Lakehouse architecture / basic distributed computing concepts.
 - Contributing to Open Source software.
 - Customer/Product advocacy.
-- Mentoring/guiding internally on customer relationships, solving technical problems, and business presentations.
+- Mentoring/guiding internally on customer relationships, solving technical problems, and technical business presentations.
 
 That being said, the job is fulfilling most of the time and I mostly recommend working at Databricks. If this sounds interesting to you and you'd like to explore similar roles at Databricks, please feel free to reach out to me via official channels (see LinkedIn below).
 
@@ -28,11 +28,6 @@ I currently live in the San Francisco Bay Area. In my opinion, it's great up her
 
 Please feel free to reach out! About anything! Online contacts are just as important as those offline.
 
-
-## Stack
-
-I use [Obsidian](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ5uCcwtn8AhUCNn0KHaJqDlgQFnoECA0QAQ&url=https%3A%2F%2Fobsidian.md%2F&usg=AOvVaw1ILZ6Ax3NYhgLRKojFB5pV) to edit my notes, [Quartz](https://github.com/jackyzha0/quartz) for the website-ized [second brain](https://en.wikipedia.org/wiki/Second_brain), and Github [Repos](https://docs.github.com/en/get-started/quickstart/create-a-repo)/[Pages](https://pages.github.com/)/[Actions](https://github.com/features/actions) for deployment and organization. 
-
 ## Contact
 
 Personal è̯̜̬̥̤m̷͖̯̝̦̪̞̦aì̭͍͇̤l̤̩̗̱͍͕̭: backfill( a   t  symbol)protonmail.com
@@ -40,3 +35,12 @@ Personal è̯̜̬̥̤m̷͖̯̝̦̪̞̦aì̭͍͇̤l̤̩̗̱͍͕̭: backfill( a 
 https://www.linkedin.com/in/nonsense/ - please feel free to send a connection request if I actually know you
 
 https://twitter.com/bigt0ph - admittedly I'm more of a lurker on Twitter but here goes
+
+
+## Other cool blogs
+
+I really like [Pradyun Gedam](https://pradyunsg.me/ "Pradyun Gedam (Alt + H)'s content about Python, development, accessibility, and their general philosophy about open source software. Their blog is somewhat of an inspiration to this one.
+
+## Stack
+
+I use [Obsidian](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ5uCcwtn8AhUCNn0KHaJqDlgQFnoECA0QAQ&url=https%3A%2F%2Fobsidian.md%2F&usg=AOvVaw1ILZ6Ax3NYhgLRKojFB5pV) to edit my notes, [Quartz](https://github.com/jackyzha0/quartz) for the website-ized [second brain](https://en.wikipedia.org/wiki/Second_brain), and Github [Repos](https://docs.github.com/en/get-started/quickstart/create-a-repo)/[Pages](https://pages.github.com/)/[Actions](https://github.com/features/actions) for deployment and organization. 
