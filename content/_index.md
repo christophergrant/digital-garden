@@ -16,9 +16,10 @@ For work, I am currently employed in the technical pre and post-sales function a
 - Tuning customer queries - including non-trivial solutions like pre-aggregations before inequality joins and standard lakehouse stuff like compaction, data skipping via (dynamic) file/partition pruning, and custom Spark-based configurations for optimal efficiency and cost savings.
 - Architecting production-ready, advanced data pipelines, up to multi-Petabyte per-table scale.
 - Teaching customers and internal resources about Delta Lake, Apache Spark, the Databricks platform, and more general Lakehouse architecture / basic distributed computing concepts.
+- Mentoring/guiding internally on customer relationships, solving technical problems, and technical business presentations.
 - Contributing to Open Source software.
 - Customer/Product advocacy.
-- Mentoring/guiding internally on customer relationships, solving technical problems, and technical business presentations.
+
 
 That being said, the job is fulfilling most of the time and I mostly recommend working at Databricks. If this sounds interesting to you and you'd like to explore similar roles at Databricks, please feel free to reach out to me via official channels (see LinkedIn below).
 
@@ -37,9 +38,13 @@ https://www.linkedin.com/in/nonsense/ - please feel free to send a connection re
 https://twitter.com/bigt0ph - admittedly I'm more of a lurker on Twitter but here goes
 
 
-## Other cool blogs
+## Other cool content
 
-I really like [Pradyun Gedam](https://pradyunsg.me/ "Pradyun Gedam (Alt + H)'s content about Python, development, accessibility, and their general philosophy about open source software. Their blog is somewhat of an inspiration to this one.
+I really like [Pradyun Gedam](https://pradyunsg.me/blog) content about Python, development, accessibility, and their general philosophy about open source software. Their blog is somewhat of an inspiration to this one.
+
+[PlasticPills](https://www.youtube.com/@PlasticPills/videos) is absolutely amazing. They bring the HEAT when it comes to philosophy and social theory with dazzling visuals that help laymen like myself understand complex theoretical concepts from challenging people like Deleuze, Baurdrillard, Debord, Lacan, and Marx. One of these days I'm going to steal this style for distributed computing concepts.
+
+I also very much enjoy [Jonas Čeika](https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg)'s work, which focuses on the connection of pop culture (mostly North American) to philosophical and social theorerical concepts.
 
 ## Stack
 
