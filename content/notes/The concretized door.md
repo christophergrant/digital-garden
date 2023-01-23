@@ -46,8 +46,10 @@ The problems are:
 * You're unsure how thick the concrete is. It could be entirely possible that it's very thin concrete. But it's also possible that the concrete is infinitely thick, and that no matter how much effort you put in, you'll never break through it.
 * Perhaps you're a concrete pacifist. That all concrete is in place for a good reason, and it's not our place to interfere with whatever force put the concrete there in the first place.
 * But let's say you have no problems busting concrete down - and you do manage to break through the concrete with sheer willpower.
-	* What if your expectations of the inner-door experience let you down? Does working through the concrete devalue the inner-door experience?
-	* Would you feel dirty for having gone through the entire process? What if you know that others have passed through that same door but experienced no concrete resistance?
+	* What if your expectations of the inner-door experience let you down? 
+	* Does working through the concrete devalue the inner-door experience?	
+	* Would you feel jealous for having gone through the entire process if you know that others have passed through that same door themselves but experienced no concrete resistance?
+
 
 ## Closing
 
@@ -57,4 +59,4 @@ In my opinion, we can probably minimize the concrete that we face in our lives b
 
 The obvious answer: I personally will try and continue opening these doors - because although there is a lot of concrete out there, there are a lot of inner-door experiences that make life worth living. To find the ecstatic experiences, you have to face a lot of concrete.
 
-The not-so-obvious answer that I've come up with post-production: it's good to come back to your concretized doors every once and again - especially if it makes you ask the above questions. Asking these questions remind you that not every inner-door needs to be experienced - and that you can't always get what you want. However painful that may be.
+The not-so-obvious answer that I've come up with recently: it's good to come back to your concretized doors every once and again - especially if it makes you ask the above questions. Asking these questions remind you that not every inner-door needs to be experienced.
