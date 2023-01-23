@@ -32,9 +32,7 @@ You think to yourself: has the concrete always been here, like this, for me? Cou
 
 What If I spent more time contemplating the beauty of the door? What If I had a slightly gentler grasp when I opened the door? What if I was having a bad hair day that I opened the door: would that have made a difference? 
 
-Or more deeply, maybe this door has so much concrete behind it not for reasons that I can control, but something I cannot. In other words, maybe it's not **what** you've done, but **who** you are. 
-
-But the lines between what we've done and who we are aren't always clear. Who we are has a strong effect on what we've done.
+Or more deeply, maybe this door has so much concrete behind it not for reasons that I can control, but something I cannot. In other words, maybe it's not **what** you've done, but **who** you are. But the lines between what we've done and who we are aren't always clear. Who we are often has a strong effect on what we've done.
 
 Of course, this all presupposes that we're free people to begin with and that the concrete was not just "destined" to be there.
 
